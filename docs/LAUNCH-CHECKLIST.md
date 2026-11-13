@@ -8,11 +8,14 @@
 - [x] Offer-help and report forms (local only)
 - [x] Profile editing (local only)
 - [x] Demo moderation and resolution statuses (local only)
+- [x] Messages, activity notifications, and admin dashboard (local-only simulations)
+- [x] Demo reset control and image size limits
 - [x] CI build workflow added
 
 ## Not implemented until backend phase
 - [ ] Supabase project + apply reviewed SQL schema
 - [ ] Real authentication and X OAuth credentials
+- [ ] Real cross-user messaging and delivery notifications
 - [ ] Server-side permissioned moderation and anti-fraud controls
 - [ ] Cross-user persistent posts, real offers and notifications
 - [ ] Private evidence storage and appropriate identity verification
